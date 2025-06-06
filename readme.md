@@ -4,20 +4,18 @@
 
 ## Grob-Planung
 
-> Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte.
+![image](https://github.com/user-attachments/assets/8c636362-c996-46b0-aa41-682064b436eb)
 
 ## 6.6
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
-
 ## 13.6
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Information die ich im Text benutzten möchte ergänzen
+- [ ] Meine Website besser designen Bilder hinzufügen etc.
+- [ ] Meine Information in mein HTML hinzufügen
+- [ ] Recherchen wie man Animation benutzt in HTML, falls es geht und versuchen anzuwenden
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
