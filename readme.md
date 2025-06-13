@@ -12,21 +12,22 @@
 
 ## 13.6
 
-- [ ] Information die ich im Text benutzten möchte ergänzen
-- [ ] Meine Website besser designen Bilder hinzufügen etc.
+- [x] Information die ich im Text benutzten möchte ergänzen
+- [x] Meine Website besser designen Bilder hinzufügen etc.
 - [ ] Meine Information in mein HTML hinzufügen
 - [ ] Recherchen wie man Animation benutzt in HTML, falls es geht und versuchen anzuwenden
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
+Heute sieht es zwar so aus, als hätte ich nicht viel gemacht, aber das täuscht ein bisschen.
+Im Laufe des Tages habe ich mich umentschieden und deshalb vieles so gelassen, wie es war, dafür aber andere Dinge angepasst.
+Meine Website funktioniert jetzt genau so, wie ich es mir vorgestellt habe.
+Ich habe mich entschieden, zunächst Hello-Kitty-Bilder zu verwenden und später Bilder aus meinem eigentlichen Projekt einzufügen.
+Ausserdem habe ich die Links eingebaut und meiner Website ein Logo hinzugefügt.
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Bildern nebeneinander legen zuerst(Wenn ich auf dem Bild mit dem Cursor soll Beschreibung des Projekts kommen)
+- [ ] Meine Informationen in die Website schreiben, dass sie vorkommen.
+- [ ] Verbesserungen machen, wenn es noch welche gibt.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
