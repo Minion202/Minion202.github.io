@@ -25,18 +25,15 @@ Ausserdem habe ich die Links eingebaut und meiner Website ein Logo hinzugefügt.
 
 ## 20.7
 
-- [ ] Bildern nebeneinander legen zuerst(Wenn ich auf dem Bild mit dem Cursor soll Beschreibung des Projekts kommen)
+- [x] Bildern nebeneinander legen zuerst(Wenn ich auf dem Bild mit dem Cursor soll Beschreibung des Projekts kommen)
 - [ ] Meine Informationen in die Website schreiben, dass sie vorkommen.
-- [ ] Verbesserungen machen, wenn es noch welche gibt.
+- [x] Verbesserungen machen, wenn es noch welche gibt.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
-
+Heute habe ich meine Website fertiggestellt, sie funktioniert genauso, wie ich es mir vorgestellt habe. Auch meine Projekte sind nun verlinkt. Die Bilder muss ich allerdings noch austauschen, und die Projektbeschreibungen muss ich ebenfalls noch schreiben.
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Bilder wechseln
+- [ ] Projekte beschreiben und zeigen, dass es einen Link gibt.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
